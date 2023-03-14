@@ -1,11 +1,9 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/images/logo.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="public/images/logo.jpeg" width="400" alt="Laravel Logo"></a></p>
 
 ## About ShipERP Data Provider APP
 
 A simple program the enables the user to add/edit/delete data provider module,  consume the data provider module and display the response Image on the web through an API call via button trigger.
 
-
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Setup
 
