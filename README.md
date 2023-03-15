@@ -7,9 +7,9 @@ A simple program the enables the user to add/edit/delete data provider module,  
 
 ## Setup
 
-- Create a new mysql Database and name it shipERP
+- Create a new ```MySQL Database``` 
 - Setup the database connetion in the ```.env``` file
-- run ```php artisan make:migrations```
+- run ```php artisan make:migration```
 - run ```php artisan db:seed```
 
 This will generate sample data Providers from the Factory.
